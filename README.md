@@ -1,6 +1,11 @@
 # AppCommunicationDemo
 Inter-application communication value example
 
+|淘煲 |吱付宝 |淘煲 |
+| ------------- | ------------- | ------------- | 
+| ![](http://og1yl0w9z.bkt.clouddn.com/18-3-30/89909188.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-30/24785925.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-30/21930996.jpg) | 
+| 向主应用请求登录授权 | 授权副应用登录 | 获得主应用 Token |
+
 # 简单 A-B 示例
 ## DemoA
 ### 设置 URL Types
